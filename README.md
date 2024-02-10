@@ -1,4 +1,5 @@
-# CRUD-App-using-Laravel
+
+# CRUD-App-using-Laravel -> Copy and paste it in ur project 
 CRUD Operations Overview The abbreviation CRUD, which stands for Create, Read, Update, and Delete, encapsulates the core activities of database administration and web development. This concept defines the fundamental operations that can be performed on data within a system.
 
 Activities:
